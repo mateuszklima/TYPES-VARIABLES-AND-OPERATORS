@@ -1,0 +1,7 @@
+company = "ABC Data"                                  typ: str wartość: "ABC Data" 
+phone = "555-123-009"                                 typ: str wartość: "555-123-009"
+employees = 25                                        typ: int wartość: "25"
+remote_work = True                                    typ: bool wartość: "False"
+big_company = employees > 100                         typ: bool wartość: "False"
+income = 4500000                                      typ: int wartość: "4500000"
+income_per_person = income / employees                typ: float wartość: "180000.0"
