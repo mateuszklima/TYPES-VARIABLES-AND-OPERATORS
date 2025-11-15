@@ -1,7 +1,7 @@
 import math  # moduł potrzebny do użycia pierwiastka
 
 # Mój wzrost
-h = 1.84
+h = 1.85
 # obliczenie odległości od horyzontu
 d = 3.57* math.sqrt(h)
 print(f"Stojąc na plaży (wysokość {h} m), horyzont jest {d:.2f} km od Ciebie.")
